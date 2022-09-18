@@ -1,0 +1,264 @@
+.PosicionCulo{ 
+    position: absolute;
+    left: 600px;
+    top:50px;
+    border: solid 8px #F36629 ;
+    border-radius: 10px;
+
+
+}
+
+.StyleLetraCulo{ 
+    position: absolute;
+    color:#F36629;
+    font-size: 40px;
+    left: 550px;
+    top:250px;
+    border: solid 8px #F36629 ;
+
+
+
+}
+
+.TituloPagina-3{  
+
+    position: absolute;
+    font-family: 'Permanent Marker', cursive;
+    color:#F36629;
+    font-size: 70px;
+    left: 200px;
+    top:328px;
+
+}
+
+.Suntitulo-1{  
+    position: absolute;
+    top:500px;
+    font-family: 'Permanent Marker', cursive;
+    color:#F36629;
+    font-size: 70px;
+
+
+
+
+}
+
+
+.Parrafo-1{  
+
+    position: absolute;
+    top:700px;
+    font-family: 'Permanent Marker', cursive;
+    color:#F36629;
+    font-size: 60px;
+
+
+
+
+
+}
+
+.Titulo-2{  
+
+    position: absolute;
+    top:2100px;
+    left:200px;
+    font-family: 'Permanent Marker', cursive;
+    color:#F36629;
+    font-size: 60px;
+
+
+
+}
+
+
+.Parrafo-2{  
+
+
+    position: absolute;
+    top:2200px;
+    left:0px;
+    font-family: 'Permanent Marker', cursive;
+    color:#F36629;
+    font-size: 60px;
+
+
+
+
+}
+
+.PosicionImg-1{  
+    position: absolute;
+    top:3100px;
+    left:300px;
+
+
+
+
+}
+
+.Esquema-1{ 
+
+    position: absolute;
+    top:4700px;
+    left:300px;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1260px){   
+
+    .PosicionCulo{ 
+        position: absolute;
+        left: 380px;
+        
+        top:50px;
+        border: solid 8px #F36629 ;
+        border-radius: 10px;
+    
+    
+    }
+    
+    .StyleLetraCulo{ 
+        position: absolute;
+        color:#F36629;
+        font-size: 40px;
+        left: 340px;
+        top:250px;
+        border: solid 8px #F36629 ;
+    
+    
+    
+    }
+    
+    .TituloPagina-3{  
+    
+        position: absolute;
+        width: 1000px;
+        font-family: 'Permanent Marker', cursive;
+        color:#F36629;
+        font-size: 70px;
+        left: -50px;
+        top:328px;
+    
+    }
+
+
+
+    .Suntitulo-1{  
+        position: absolute;
+        width: 1000px;
+        top:500px;
+        font-family: 'Permanent Marker', cursive;
+        color:#F36629;
+        font-size: 70px;
+    
+    
+    
+    
+    }
+
+
+
+
+    .Parrafo-1{  
+
+        position: absolute;
+        width: 1000px;
+        top:750px;
+        font-family: 'Permanent Marker', cursive;
+        color:#F36629;
+        font-size: 60px;
+    
+    
+    
+    
+    
+    }
+
+
+    .Titulo-2{  
+
+        position: absolute;
+        width: 1000px;
+        top:2600px;
+        left:0px;
+        font-family: 'Permanent Marker', cursive;
+        color:#F36629;
+        font-size: 60px;
+    
+    
+    
+    }
+    
+
+
+
+    .Parrafo-2{  
+
+
+        position: absolute;
+        width: 1000px;
+        top:2700px;
+        left:0px;
+        font-family: 'Permanent Marker', cursive;
+        color:#F36629;
+        font-size: 60px;
+    
+    
+    
+    
+    }
+    
+
+
+    .PosicionImg-1{  
+        position: absolute;
+        top:3900px;
+        left:200px;
+    
+    
+    
+    
+    }
+    
+
+
+    .Esquema-1{ 
+
+        position: absolute;
+        top:5500px;
+        left:200px;
+    
+    
+    
+    
+    }
+    
+
+
+
+
+
+
+
+
+}
+
+
+

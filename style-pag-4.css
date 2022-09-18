@@ -1,0 +1,230 @@
+.PosicionPeligro{ 
+
+    position: absolute;
+    left: 600px;
+    top:50px;
+    border: solid 8px #F36629 ;
+    border-radius: 10px;
+
+
+
+}
+
+.StyleLetraPeligro{  
+
+    position: absolute;
+    color:#F36629;
+    font-size: 40px;
+    left: 580px;
+    top:250px;
+    border: solid 8px #F36629 ;
+
+
+
+}
+.TituloPagina{  
+
+    position: absolute;
+    font-family: 'Permanent Marker', cursive;
+    color:#F36629;
+    font-size: 70px;
+    left: 0px;
+    top:328px;
+
+
+}
+
+
+.Parrafo-1{ 
+
+    position: absolute;
+    top:500px;
+    font-family: 'Permanent Marker', cursive;
+    color:#F36629;
+    font-size: 60px;
+
+
+
+}
+
+.PosicionImg-1{  
+    position: absolute;
+    top:1100px;
+    left:550px;
+
+}
+
+.PosicionImg-2{  
+    position: absolute;
+    top:1600px;
+    left:380px;
+
+
+}
+
+.img-3{ 
+
+    position: absolute;
+    top:2400px;
+    left:300px;
+
+}
+.Parrafo-4{  
+    position: absolute;
+    top:4100px;
+    left:130px;
+    font-family: 'Permanent Marker', cursive;
+    color:#F36629;
+    font-size: 60px;
+
+
+}
+
+
+
+
+
+
+footer{  
+
+
+
+    position: absolute;
+    top:4100px;
+    left:30px;
+
+
+
+
+
+}
+
+
+
+
+@media screen and (max-width:1260px){ 
+
+
+
+    .PosicionPeligro{ 
+
+        position: absolute;
+        left: 450px;
+        top:50px;
+        border: solid 8px #F36629 ;
+        border-radius: 10px;
+    
+    
+    
+    }
+    
+    .StyleLetraPeligro{  
+    
+        position: absolute;
+        color:#F36629;
+        font-size: 40px;
+        left: 430px;
+        top:250px;
+        border: solid 8px #F36629 ;
+    
+    
+    
+    }
+    .TituloPagina{  
+    
+        position: absolute;
+        width: 1000px;
+        font-family: 'Permanent Marker', cursive;
+        color:#F36629;
+        font-size: 70px;
+        left: 0px;
+        top:328px;
+    
+    
+    }
+    
+    
+    .Parrafo-1{ 
+    
+        position: absolute;
+        width: 1000px;
+        top:500px;
+        font-family: 'Permanent Marker', cursive;
+        color:#F36629;
+        font-size: 60px;
+    
+    
+    
+    }
+    
+
+
+    .PosicionImg-1{  
+        position: absolute;
+        top:1200px;
+        left:400px;
+    
+    
+    
+    
+    
+    
+    
+    }
+    
+
+
+
+
+    .PosicionImg-2{  
+        position: absolute;
+        top:1600px;
+        left:220px;
+    
+    
+    }
+    
+    
+
+
+    .img-3{ 
+
+        position: absolute;
+        top:2300px;
+        left:150px;
+    
+    }
+    
+
+    .Parrafo-4{  
+        position: absolute;
+        top:4100px;
+        left:0px;
+        font-family: 'Permanent Marker', cursive;
+        color:#F36629;
+        font-size: 60px;
+    
+    
+    }
+    
+
+    footer{  
+
+
+
+        position: absolute;
+        width: 1000px;
+        top:4100px;
+        left:30px;
+    
+    
+    
+    
+    
+    }
+
+
+
+
+
+}

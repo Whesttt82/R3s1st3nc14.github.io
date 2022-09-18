@@ -1,0 +1,244 @@
+
+
+
+.PositionPandereta{ 
+    position: absolute;
+    left: 600px;
+    top:50px;
+    border: solid 8px #F36629 ;
+    border-radius: 10px;
+
+ }
+
+ .styleLetraPandereta{  
+
+    position: absolute;
+    color:#F36629;
+    font-size: 40px;
+    left: 330px;
+    top:238px;
+    border: solid 8px #F36629 ;
+}
+
+
+.TituloPag-1{   
+    position: absolute;
+    font-family: 'Permanent Marker', cursive;
+    color:#F36629;
+    font-size: 70px;
+    left: 220px;
+    top:328px;
+}
+
+.Subtitulopag-1{  
+
+    position: absolute;
+    font-family: 'Permanent Marker', cursive;
+    color:#F36629;
+    font-size: 70px;
+    left: 170px;
+    top:428px;
+}
+
+
+
+.positionCoche{  
+    position: absolute;
+    left: 510px;
+    top:628px;
+
+    border: solid 8px #F36629 ;
+    border-radius: 10px;
+}
+
+.Parrafo-Pag-1{  
+
+    position: absolute;
+    font-family: 'Permanent Marker', cursive;
+    color:#F36629;
+    font-size: 60px;
+   
+    top:928px;
+}
+
+#TituloParrafo-2{  
+
+    position: absolute;
+    left: 120px;
+    font-family: 'Permanent Marker', cursive;
+    color:#F36629;
+    font-size: 70px;
+   
+    top:5428px;
+
+
+}
+
+
+.Parrafo-2{  
+    position: absolute;
+    left: 120px;
+    font-family: 'Permanent Marker', cursive;
+    color:#F36629;
+    font-size: 60px;
+   
+    top:5628px;
+
+
+
+}
+
+.posicionPinchaRuedas{  
+
+    position: absolute;
+    border: solid 8px #F36629 ;
+
+    top:6628px;
+    left: 400px;
+
+
+
+}
+
+
+
+
+
+@media screen and (max-width:1260px){   
+
+
+
+
+
+
+    .PositionPandereta{ 
+        position: absolute;
+        
+        left: 500px;
+        top:50px;
+        border: solid 8px #F36629 ;
+        border-radius: 10px;
+    
+     }
+    
+     .styleLetraPandereta{  
+    
+        position: absolute;
+        width:800px;
+        color:#F36629;
+        font-size: 40px;
+        left: 230px;
+        top:238px;
+        border: solid 8px #F36629 ;
+    }
+    
+    
+    .TituloPag-1{   
+        position: absolute;
+        width: 1000px;
+        font-family: 'Permanent Marker', cursive;
+        color:#F36629;
+        font-size: 60px;
+        left: 120px;
+        top:328px;
+    }
+    
+    .Subtitulopag-1{  
+    
+        position: absolute;
+        width: 1000px;
+        font-family: 'Permanent Marker', cursive;
+        color:#F36629;
+        font-size: 70px;
+        left: 90px;
+        top:428px;
+    }
+    
+    
+    
+    .positionCoche{  
+        position: absolute;
+      
+        left: 510px;
+        top:828px;
+    
+        border: solid 8px #F36629 ;
+        border-radius: 10px;
+    }
+    
+    .Parrafo-Pag-1{  
+    
+        position: absolute;
+        left:100px;
+        width: 1000px;
+        font-family: 'Permanent Marker', cursive;
+        color:#F36629;
+        font-size: 60px;
+       
+        top:1228px;
+    }
+    
+    #TituloParrafo-2{  
+    
+        position: absolute;
+        top:7000px;
+        width: 1000px;
+        left: 120px;
+        font-family: 'Permanent Marker', cursive;
+        color:#F36629;
+        font-size: 70px;
+       
+      
+    
+    
+    }
+    
+    
+    .Parrafo-2{  
+        position: absolute;
+        width: 1000px;
+        left: 120px;
+        font-family: 'Permanent Marker', cursive;
+        color:#F36629;
+        font-size: 60px;
+       
+        top:7300px;
+    
+    
+    
+    }
+    
+
+
+
+    .posicionPinchaRuedas{  
+
+        position: absolute;
+        border: solid 8px #F36629 ;
+    
+        top:8328px;
+        left: 280px;
+    
+    
+    
+    }
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+

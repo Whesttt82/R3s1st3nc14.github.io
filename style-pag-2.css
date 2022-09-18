@@ -1,0 +1,331 @@
+
+
+
+
+
+
+
+.PosicionMartillo{  
+
+    position: absolute;
+    left: 600px;
+    top:50px;
+    border: solid 8px #F36629 ;
+    border-radius: 10px;
+
+
+}
+
+.StyleLetraMartillo{ 
+
+    position: absolute;
+    color:#F36629;
+    font-size: 40px;
+    left: 470px;
+    top:238px;
+    border: solid 8px #F36629 ;
+
+}
+
+
+.TitulpPag-2{  
+
+    position: absolute;
+    font-family: 'Permanent Marker', cursive;
+    color:#F36629;
+    font-size: 70px;
+    left: 20px;
+    top:328px;
+
+}
+
+.Subtitulo-1{  
+
+    position: absolute;
+    font-family: 'Permanent Marker', cursive;
+    color:black;
+    font-size: 60px;
+    left: 220px;
+    top:628px;
+
+}
+
+.PosicionDistorsionador{   
+
+    position: absolute;
+    top:800px;
+    left: 340px;
+    border: solid 8px #F36629 ;
+    border-radius: 10px;
+
+}
+
+
+.Parrafo-1{ 
+    position: absolute;
+    font-family: 'Permanent Marker', cursive;
+    color:#F36629 ;
+    font-size: 60px;
+    left: 30px;
+    top:2328px;
+
+
+
+}
+
+.TituloParrafo-2{ 
+    position: absolute;
+    font-family: 'Permanent Marker', cursive;
+    color:black;
+    font-size: 60px;
+    left: 250px;
+    top:3528px;
+
+
+}
+
+
+.Parrafo-2{ 
+
+    position: absolute;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 60px;
+    top:3728px;
+}
+
+.TituloParrafo-3{  
+    position: absolute;
+    font-family: 'Permanent Marker', cursive;
+    color:#F36629 ;
+    font-size: 60px;
+    top:4328px;
+
+
+
+}
+
+.Parrafo-3{ 
+    position: absolute;
+    font-family: 'Permanent Marker', cursive;
+    color:#F36629 ;
+    font-size: 60px;
+    top:4628px;
+
+
+
+
+}
+
+
+.img-magafono-1{  
+    position: absolute;
+    top:5628px;
+
+}
+
+.img-magafono-2{ 
+    position: absolute;
+    top:5628px;
+    left: 700px;
+
+
+
+}
+
+
+
+.img-magafono-3{   
+
+    position: absolute;
+    top:7250px;
+    left: 300px;
+
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1260px){  
+
+
+
+
+
+
+
+
+
+    .PosicionMartillo{  
+
+        position: absolute;
+        left: 530px;
+        top:50px;
+        border: solid 8px #F36629 ;
+        border-radius: 10px;
+    
+    
+    }
+    
+    .StyleLetraMartillo{ 
+    
+        position: absolute;
+        width: 400px;
+        color:#F36629;
+        font-size: 40px;
+        left: 380px;
+        top:238px;
+        border: solid 8px #F36629 ;
+    
+    }
+    
+    
+    .TitulpPag-2{  
+    
+        position: absolute;
+        width: 1000px;
+        font-family: 'Permanent Marker', cursive;
+        color:#F36629;
+        font-size: 70px;
+        left: 20px;
+        top:328px;
+    
+    }
+    
+    .Subtitulo-1{  
+    
+        position: absolute;
+        width: 1000px;
+        font-family: 'Permanent Marker', cursive;
+        color:#F36629;
+        font-size: 60px;
+        left: 20px;
+        top:628px;
+    
+    }
+    
+    .PosicionDistorsionador{   
+    
+        position: absolute;
+        top:800px;
+        left: 180px;
+        border: solid 8px #F36629 ;
+        border-radius: 10px;
+    
+    }
+    
+
+
+
+    .Parrafo-1{ 
+        position: absolute;
+        width: 1000px;
+        font-family: 'Permanent Marker', cursive;
+        color:#F36629;
+        font-size: 60px;
+        left: 30px;
+        top:2328px;
+    
+    
+    
+    }
+    
+
+
+    .TituloParrafo-2{ 
+        position: absolute;
+        width: 1000px;
+        font-family: 'Permanent Marker', cursive;
+        color:black;
+        font-size: 60px;
+        left: 0px;
+        top:3828px;
+    
+    
+    }
+
+
+
+    .Parrafo-2{ 
+
+        position: absolute;
+        color:#F36629;
+        width: 1000px;
+        font-family: 'Permanent Marker', cursive;
+        font-size: 60px;
+        top:4028px;
+    }
+    
+
+    .TituloParrafo-3{  
+        position: absolute;
+        width: 1000px;
+        font-family: 'Permanent Marker', cursive;
+        color:black;
+        font-size: 60px;
+        top:4828px;
+    
+    
+    
+    }
+    
+
+    .Parrafo-3{ 
+        position: absolute;
+        width: 1000px;
+        font-family: 'Permanent Marker', cursive;
+        color:#F36629 ;
+        font-size: 60px;
+        top:5028px;
+    
+    
+    
+    
+    }
+
+
+    .img-magafono-1{  
+        position: absolute;
+        top:6100px;
+    
+    }
+
+
+
+
+    .img-magafono-2{ 
+        position: absolute;
+        top:6100px;
+        left: 700px;
+    
+    
+    
+    }
+    
+    
+
+    .img-magafono-3{   
+
+        position: absolute;
+        top:7650px;
+        left: 200px;
+    
+    }
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+}
